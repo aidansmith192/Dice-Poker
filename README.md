@@ -6,7 +6,7 @@ Play here: https://www.roblox.com/games/13449914869/Dice-Poker-AI
 ## Files included
 game.lua
 - Contains the game mechanics, including GUI manipulation to give visuals to the game:
- - Starting the game, giving players their hands, running the game timer, determing players hand value and the winner of the round, and displaying all of the previously mentioned actions.
+  - Starting the game, giving players their hands, running the game timer, determing players hand value and the winner of the round, and displaying all of the previously mentioned actions.
 
 Files not included
 - Many small files for handling client side actions, such as locking a dice.
